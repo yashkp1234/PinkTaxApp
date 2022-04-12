@@ -1,4 +1,4 @@
-# PINK TAX APPLICATION
+# PINK TAX APPLICATION: CS497 FINAL PROJECT
 
 ## Overview 
 Pink Tax is the concept of discriminatory pricing on products that are typically targeted towards women. This price gap is often seen in personal care products such as razors and shaving cream, but also includes services such as haircuts, jeans and other clothes and even toys. 
