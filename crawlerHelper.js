@@ -1,7 +1,7 @@
 const crawler = require("./crawler.js");
 
 function convertPriceToNum(a) {
-  return Number(a.replace(/[^0-9.-]+/g, ""));
+  return Number(a.substring(0, 8).replace(/[^0-9.]+/g, ""));
 }
 
 function minObj(a, b) {
