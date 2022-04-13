@@ -17,3 +17,6 @@ The Frontend: The frontend has a search tab to search for any product, and then 
 ## Future Features
 Differentiating between premium and non-premium items would provide a more holistic view of average prices 
 Tagging the manufacturers and retailers selling the product would be a next step for the tweets 
+
+
+![Recording_2022-04-12_at_22 23 28](https://user-images.githubusercontent.com/22461732/163089503-2635fa17-7d9b-41b2-9205-3ca397d43409.gif)
