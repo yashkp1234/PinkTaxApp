@@ -1,0 +1,10 @@
+* {
+  font-family: Playfair Display !important;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-image: url("./assets/257059.webp");
+}

@@ -1,0 +1,12 @@
+.home { 
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.home__body {
+    flex: 1;
+    display: flex;
+    margin-top: 13%;
+    flex-direction: column;
+}

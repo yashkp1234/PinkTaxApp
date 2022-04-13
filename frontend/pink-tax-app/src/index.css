@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: Playfair Display !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+font-family: Playfair Display !important;
+}

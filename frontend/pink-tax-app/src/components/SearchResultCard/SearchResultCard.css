@@ -1,0 +1,15 @@
+.noPads {
+    padding: 1%;
+    padding-bottom: 6%;
+    margin: 0;
+    font-size: 0.8rem;
+}
+
+.topPads {
+    padding-top: 18%;
+}
+
+.topPads2{
+    padding: 5%;
+    padding-top: 5%;
+}
